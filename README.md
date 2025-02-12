@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science and Math undergraduate student. I'm on the hunt for interesting opportunities in Software Engineering, especially ones related to business/financial services and AI, that challenge me as a programmer and allow me to grow my skill set.
+I'm a Computer Science and Math undergraduate student. I'm on the hunt for interesting opportunities in Software Engineering that challenge me as a programmer and allow me to grow my skill set. I'm especially interested in business/financial software services and AI, and I'm open to see what are out there.
 
 ⚡I've worked on the back-end Software Engineering team under Axon Vibe where we managed traffic and voucher campaign services for major public transport operators including MTA New York and DB Regio.
 
@@ -25,4 +25,4 @@ I'm a Computer Science and Math undergraduate student. I'm on the hunt for inter
 
 🌱 I don't debug 24/7. In my downtime, I like to travel places to take film photography, play my piano, or indulge myself in good podcasts/blogs/books for inspirations. Would love to hear any recommendations also! 
 
-I'm best reached via [email](mailto:hannguyen0712@gmail.com) and [LinkedIn](https://www.linkedin.com/in/hannguyen0712/). 
+I'm best reached via [email](mailto:hannguyen0712@gmail.com) and [LinkedIn](https://www.linkedin.com/in/hannguyen0712/). I'm always open for interesting conversations, collaborations, and opportunities!
