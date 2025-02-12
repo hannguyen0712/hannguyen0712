@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Han 👋
 
 <!--
 **hannguyen0712/hannguyen0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Computer Science and Math undergraduate student. I'm on the hunt for interesting opportunities in Software Engineering, especially related to business/financial sectors and AI, that challenge me as a programmer and allow me to grow my skill set.
+
+I've worked on the back-end Software Engineering team under Axon Vibe where we managed traffic and voucher campaign services for major public transport operators including MTA New York and DB Regio.
+
+My interests include cutting-edge technologies, their applications, and their socioeconomic/humanitarian impacts.
+
+📫 I'm best reached via [email](mailto:hannguyen0712@gmail.com) and [LinkedIn](https://www.linkedin.com/in/hannguyen0712/).
