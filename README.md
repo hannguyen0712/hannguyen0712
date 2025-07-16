@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science and Math undergraduate student. I'm on the hunt for interesting SWE and AL/ML opportunities that challenge me as a programmer and allow me to grow my skill set. I'm especially interested in business/financial software services, and I'm also open to see what are out there.
+I'm a Computer Science and Math undergraduate student. I'm on the hunt for interesting SWE and AL/ML opportunities that challenge me as a programmer and allow me to grow my skill set. I'm especially interested in business/financial softwares, and I'm also curious about different exciting products out there.
 
-⚡ I've worked on the back-end Software Engineering team under Axon Vibe where we managed traffic and voucher campaign services for major public transport operators including MTA New York and DB Regio.
+⚡ I've had experiences building a RAG workflow for [Paqt](https://paqt.chat/) worked on the back-end Software Engineering team under Axon Vibe where we managed traffic and voucher campaign services for major public transport operators including MTA New York and DB Regio.
 
 🔭 My interests include cutting-edge technologies, their applications, and their socioeconomic/humanitarian impacts.
 
