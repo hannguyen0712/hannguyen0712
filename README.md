@@ -26,4 +26,4 @@ I'm a Computer Science and Math undergraduate student. I'm on the hunt for inter
 🌱 In my downtime, I like to travel places to take film photography, play my piano, or learn from good podcasts/blogs/books. Would love to hear any recommendations! 
 
 
-I'm best reached via [email](mailto:hannguyen0712@gmail.com) and [LinkedIn](https://www.linkedin.com/in/hannguyen0712/). I'm always open for interesting conversations, collaborations, and opportunities.
+I'm best reached via [email](mailto:hanngn@proton.me) and [LinkedIn](https://www.linkedin.com/in/hannguyen0712/). I'm always open for interesting conversations, collaborations, and opportunities.
