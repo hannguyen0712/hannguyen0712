@@ -19,7 +19,7 @@ Currently pursuing my M.S. Computer Science with Thesis
 
 Experiences:
 - SWE building RAG workflow for [Paqt](https://paqt.chat/)
-- Back-end SWE intern at Axon Vibe where we managed traffic and voucher campaign services for major public transport operators including MTA New York and DB Regio
+- Back-end SWE intern at [Axon Vibe](https://axonvibe.com/) where we managed traffic and voucher campaign services for major public transport operators including MTA New York and DB Regio
 
 Technical interests:
 - Cutting-edge technologies and their applications
