@@ -15,13 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Current M.S. Computer Science student
+Currently pursuing my M.S. Computer Science with Thesis
 
 Experiences:
 - SWE building RAG workflow for [Paqt](https://paqt.chat/)
 - Back-end SWE intern at Axon Vibe where we managed traffic and voucher campaign services for major public transport operators including MTA New York and DB Regio
 
-My interests include cutting-edge technologies, their applications, and their socioeconomic/humanitarian impacts.
+Technical interests:
+- Cutting-edge technologies and their applications
+- Financial technology and financial activities as a computational model
+- Algorithms
+- Biocomputing  
+- Socioeconomic/humanitarian impacts of technology
 
 Fun fact: Before college, I took a gap year to work for [Passerelles numériques](https://www.passerellesnumeriques.org/) (super cool non-profit that provides free IT training and industry support to underprivileged students), which led me down my current tech path.
 
