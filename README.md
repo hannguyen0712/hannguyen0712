@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently pursuing my M.S. Computer Science with Thesis
+Currently pursuing my Master's in Computer Science 
 
 Experiences:
 - SWE building RAG workflow for [Paqt](https://paqt.chat/)
